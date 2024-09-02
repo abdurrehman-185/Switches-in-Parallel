@@ -1,0 +1,5 @@
+../Core/Src/adc.c:17:6:ADC_Init	8	static
+../Core/Src/adc.c:24:6:HAL_ADC_ConvCpltCallback	16	static
+../Core/Src/adc.c:29:6:calculate_and_print_average	112	static
+../Core/Src/adc.c:40:6:MX_DMA_Init	16	static
+../Core/Src/adc.c:51:6:MX_ADC1_Init	48	static

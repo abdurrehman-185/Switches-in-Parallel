@@ -1,0 +1,2 @@
+../Core/Src/switch.c:15:6:Switch_Init	1
+../Core/Src/switch.c:19:6:controlLED	8
